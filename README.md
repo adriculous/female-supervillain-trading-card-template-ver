@@ -1,16 +1,16 @@
 # Female SuperVillain Trading Card App (Template Version)
-This is the template version of the Female Supervillain Trading Card app. Class project by [Skillcrush](https://skillcrush.com).
+This is an interactive Female Supervillain trading card app. It is a small database of custom-designed trading cards of original supervillain female characters. Users can add or remove any trading card into their database.
 
-The app contains the following:
-- A gallery of custom-designed interactive trading cards of female supervillains
-- Users can add their own custom-designed supervillain card in the database
-- Built using Python, Flask, SQLAlchemy, and Jinja
+### Features and Skills
+- Powered by Flask microframework
+- SQLAlchemy module imported to automatically add trading card entries into a SQL database
+- HTML templates templated using Jinja
+- Used standard modules such as datetime
 
-### See it in action!
-Check out this [repl](https://repl.it/@adriculous/Female-Supervillain-Trading-Card-template-version) and feel free to play with it.
+**See it in action!** [repl](https://repl.it/@adriculous/Female-Supervillain-Trading-Card-template-version)
 
 ### Future Plans
-I'll probably use this app as a template for building different types of trading card apps with different themes for practice, such as those related to my current J-Pop (Japanese Pop) fandoms.
+I'll probably use this app as a template for building different types of trading card apps with different themes for practice, such as those related to my current J-Pop (Japanese Pop) fandoms. Once I get better with python and Flask, I may add more features that would make the trading card app more complete.
 
 ### Some Links if You're Bored
 - [The ADRICULOUS Life](https://adriculous.life) - personal (non-niche) blog
